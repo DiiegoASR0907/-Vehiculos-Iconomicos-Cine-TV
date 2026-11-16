@@ -8,35 +8,53 @@
       "vehicle_id": "VEH-001",
       "original_name": "DeLorean DMC-12",
       "production_reference": "Back to the Future",
-      "first_appearance_year": null,
+      "first_appearance_year": 1985,
       "real_model_year": null,
-      "manufacturer": null,
-      "model_variant": null,
-      "nature": null,
-      "secondary_condition": [],
-      "fictional_identity": null,
-      "character_associated": null,
+      "manufacturer": "DeLorean Motor Company",
+      "model_variant": "DMC-12; carrocería de acero inoxidable y puertas gullwing",
+      "nature": "MOD",
+      "secondary_condition": [
+        "vehículo real modificado para ficción"
+      ],
+      "fictional_identity": "Máquina del tiempo de Doc Brown",
+      "character_associated": "Emmett 'Doc' Brown; Marty McFly",
       "related_vehicle_ids": [],
       "original_iconicity": 5,
       "revised_iconicity": null,
       "iconicity_justification": null,
       "verification_status": "partial",
-      "source_references": [],
-      "source_notes": "Ficha documental individual y fuentes específicas pendientes de consolidación en esta primera carga.",
+      "source_references": [
+        {
+          "title": "DeLorean DMC-12 — Haynes Motor Museum",
+          "url": "https://www.haynesmuseum.org/the-museum/collection-highlights/1981-delorean-dmc-12/",
+          "supports": "Producción 1981–1982; diseño y características; asociación con Back to the Future.",
+          "source_type": "museum_or_institution"
+        },
+        {
+          "title": "How Back to the Future Turned a Failing Car Into a Pop Icon — HISTORY",
+          "url": "https://www.history.com/articles/back-to-the-future-delorean-car",
+          "supports": "Elección del DMC-12 como máquina del tiempo y su aparición en la película de 1985.",
+          "source_type": "editorial_historical"
+        }
+      ],
+      "source_notes": "Primera aparición cinematográfica en 1985. La fuente museística confirma producción 1981–1982, pero aún no se identifica el año exacto de cada unidad de rodaje.",
       "correction_notes": []
     },
     {
       "vehicle_id": "VEH-002",
       "original_name": "Batimóvil (Batman, 1989)",
       "production_reference": "Batman (1989)",
-      "first_appearance_year": null,
+      "first_appearance_year": 1989,
       "real_model_year": null,
-      "manufacturer": null,
-      "model_variant": null,
-      "nature": null,
-      "secondary_condition": [],
-      "fictional_identity": null,
-      "character_associated": null,
+      "manufacturer": "Construcción especial de producción; componentes Chevrolet",
+      "model_variant": "Batimóvil de Anton Furst; carrocería fabricada a medida sobre chasis Chevrolet Impala modificados",
+      "nature": "FIC",
+      "secondary_condition": [
+        "réplica/construcción física funcional para rodaje",
+        "componentes de vehículo real"
+      ],
+      "fictional_identity": "Batimóvil de la continuidad de Tim Burton",
+      "character_associated": "Batman / Bruce Wayne",
       "related_vehicle_ids": [
         "VEH-064",
         "VEH-085"
@@ -45,43 +63,73 @@
       "revised_iconicity": null,
       "iconicity_justification": null,
       "verification_status": "partial",
-      "source_references": [],
-      "source_notes": "Ficha documental individual y fuentes específicas pendientes de consolidación en esta primera carga.",
+      "source_references": [
+        {
+          "title": "1989 Batmobile — Petersen Automotive Museum",
+          "url": "https://kumquat-disc-ty3a.squarespace.com/vehicle-spotlights/1989-batmobile",
+          "supports": "Diseño de Anton Furst; dos vehículos de rodaje; base/chasis Chevrolet Impala; motor V8 Chevrolet.",
+          "source_type": "museum_or_institution"
+        },
+        {
+          "title": "The New Batmobile — Los Angeles Times",
+          "url": "https://www.latimes.com/archives/la-xpm-1989-06-12-vw-1593-story.html",
+          "supports": "Construcción de dos coches para rodaje y detalles de chasis y motor.",
+          "source_type": "press_contemporary"
+        }
+      ],
+      "source_notes": "No es un modelo de producción comercial. Petersen describe una base 1967 Impala; el reportaje contemporáneo del Los Angeles Times menciona dos Impala 1968. Se conserva el conflicto del año base y no se fija real_model_year.",
       "correction_notes": []
     },
     {
       "vehicle_id": "VEH-003",
       "original_name": "Aston Martin DB5",
       "production_reference": "Goldfinger",
-      "first_appearance_year": null,
-      "real_model_year": null,
-      "manufacturer": null,
-      "model_variant": null,
-      "nature": null,
-      "secondary_condition": [],
-      "fictional_identity": null,
-      "character_associated": null,
+      "first_appearance_year": 1964,
+      "real_model_year": 1963,
+      "manufacturer": "Aston Martin",
+      "model_variant": "DB5; prototipo DP216/1 utilizado en Goldfinger",
+      "nature": "MOD",
+      "secondary_condition": [
+        "vehículo real modificado con gadgets ficticios"
+      ],
+      "fictional_identity": "Aston Martin DB5 de James Bond",
+      "character_associated": "James Bond / 007",
       "related_vehicle_ids": [],
       "original_iconicity": 5,
       "revised_iconicity": null,
       "iconicity_justification": null,
       "verification_status": "partial",
-      "source_references": [],
-      "source_notes": "Ficha documental individual y fuentes específicas pendientes de consolidación en esta primera carga.",
+      "source_references": [
+        {
+          "title": "Aston Martin DB5 (Bond Car) — International Spy Museum",
+          "url": "https://www.spymuseum.org/exhibition-experiences/about-the-collection/collection-highlights/aston-martin-db5-bond-car/",
+          "supports": "Primera aparición de Bond al volante del DB5 en Goldfinger (1964); gadgets cinematográficos.",
+          "source_type": "museum_or_institution"
+        },
+        {
+          "title": "Goldfinger (1964) — Hachette Cars on Screen",
+          "url": "https://www.hachette-collections.com/medias/en-us/download-center/A21_FF_25_US.pdf",
+          "supports": "El DB5 era el modelo más reciente y el coche de película era un prototipo repintado; modificaciones y gadgets.",
+          "source_type": "specialist_reference"
+        }
+      ],
+      "source_notes": "La fuente especializada describe un prototipo DB5 repintado, pero falta enlazar una ficha de archivo que documente inequívocamente el año de fabricación de la unidad DP216/1. 1963 queda como año provisional del prototipo, no como año de todas las unidades.",
       "correction_notes": []
     },
     {
       "vehicle_id": "VEH-004",
       "original_name": "Ecto-1",
       "production_reference": "Ghostbusters",
-      "first_appearance_year": null,
-      "real_model_year": null,
-      "manufacturer": null,
-      "model_variant": null,
-      "nature": null,
-      "secondary_condition": [],
-      "fictional_identity": null,
-      "character_associated": null,
+      "first_appearance_year": 1984,
+      "real_model_year": 1959,
+      "manufacturer": "Cadillac; carrocería profesional Miller-Meteor",
+      "model_variant": "Cadillac Series 75 / Miller-Meteor Futura Sentinel (ambulancia/combination car)",
+      "nature": "MOD",
+      "secondary_condition": [
+        "ambulancia real modificada para ficción"
+      ],
+      "fictional_identity": "Ecto-1 / Ectomobile",
+      "character_associated": "Ghostbusters: Ray Stantz, Egon Spengler, Peter Venkman y Winston Zeddemore",
       "related_vehicle_ids": [
         "VEH-074"
       ],
@@ -89,127 +137,217 @@
       "revised_iconicity": null,
       "iconicity_justification": null,
       "verification_status": "partial",
-      "source_references": [],
-      "source_notes": "Ficha documental individual y fuentes específicas pendientes de consolidación en esta primera carga.",
+      "source_references": [
+        {
+          "title": "Ghostbusters (1984) — Hachette Cars on Screen",
+          "url": "https://www.hachettecollections.com/medias/en-us/download-center/A21_FF_56_US.pdf",
+          "supports": "Identifica Ecto-1 como Cadillac 1959 Series 75 con carrocería Miller-Meteor Futura Sentinel; distingue coche negro inicial y unidad hero roja y blanca.",
+          "source_type": "specialist_reference"
+        },
+        {
+          "title": "Ecto-1 history — The Ecto Registry",
+          "url": "https://www.ecto1.com/ecto1/ecto1-history.jspx",
+          "supports": "Historia del desarrollo del coche y base Cadillac Miller-Meteor.",
+          "source_type": "specialist_archive"
+        }
+      ],
+      "source_notes": "La película empleó más de una unidad. No reducir todas las tomas a un único coche físico.",
       "correction_notes": []
     },
     {
       "vehicle_id": "VEH-005",
       "original_name": "Ford Falcon XB GT / Pursuit Special",
       "production_reference": "Mad Max",
-      "first_appearance_year": null,
-      "real_model_year": null,
-      "manufacturer": null,
-      "model_variant": null,
-      "nature": null,
-      "secondary_condition": [],
-      "fictional_identity": null,
-      "character_associated": null,
+      "first_appearance_year": 1979,
+      "real_model_year": 1973,
+      "manufacturer": "Ford Australia",
+      "model_variant": "Falcon XB GT Hardtop coupé, modificado como V8 Interceptor / Pursuit Special",
+      "nature": "MOD",
+      "secondary_condition": [
+        "vehículo real modificado para ficción"
+      ],
+      "fictional_identity": "V8 Interceptor / Pursuit Special",
+      "character_associated": "Max Rockatansky",
       "related_vehicle_ids": [],
       "original_iconicity": 5,
       "revised_iconicity": null,
       "iconicity_justification": null,
       "verification_status": "partial",
-      "source_references": [],
-      "source_notes": "Ficha documental individual y fuentes específicas pendientes de consolidación en esta primera carga.",
+      "source_references": [
+        {
+          "title": "Mad Max Interceptor — Australian XB Falcon Owners Club",
+          "url": "https://www.abcfalcons.com/madmaxinterceptor.html",
+          "supports": "Identificación del coche base como XB Falcon GT coupé de 1973 y su conversión para la película.",
+          "source_type": "specialist_archive"
+        },
+        {
+          "title": "Ford Falcon XB GT 1973 — Hachette technical sheet",
+          "url": "https://www.hachettecollections.com/medias/en-us/download-center/A21_FF_01_US.pdf",
+          "supports": "Datos de modelo y características técnicas del Falcon XB GT.",
+          "source_type": "specialist_reference"
+        }
+      ],
+      "source_notes": "La identificación del vehículo original está respaldada por un archivo especializado de propietarios y una ficha técnica del modelo. Falta una fuente de archivo de producción o museo para elevar la ficha a confirmada.",
       "correction_notes": []
     },
     {
       "vehicle_id": "VEH-006",
       "original_name": "Eleanor (Mustang Fastback personalizado)",
       "production_reference": "Gone in 60 Seconds (2000)",
-      "first_appearance_year": null,
-      "real_model_year": null,
-      "manufacturer": null,
-      "model_variant": null,
-      "nature": null,
-      "secondary_condition": [],
-      "fictional_identity": null,
-      "character_associated": null,
+      "first_appearance_year": 2000,
+      "real_model_year": 1967,
+      "manufacturer": "Ford",
+      "model_variant": "Mustang Fastback 1967 personalizado para la película; no Shelby GT500 de fábrica",
+      "nature": "MOD",
+      "secondary_condition": [
+        "vehículo real profundamente modificado"
+      ],
+      "fictional_identity": "Eleanor (continuidad de Gone in 60 Seconds de 2000)",
+      "character_associated": "Memphis Raines",
       "related_vehicle_ids": [],
       "original_iconicity": 5,
       "revised_iconicity": null,
       "iconicity_justification": null,
       "verification_status": "partial",
-      "source_references": [],
-      "source_notes": "Ficha documental individual y fuentes específicas pendientes de consolidación en esta primera carga.",
+      "source_references": [
+        {
+          "title": "Halicki Films v. Carroll Shelby International — U.S. Court of Appeals",
+          "url": "https://www.govinfo.gov/content/pkg/USCOURTS-ca9-06-55806/pdf/USCOURTS-ca9-06-55806-0.pdf",
+          "supports": "El Eleanor del remake de 2000 se representa como Mustang Fastback 1967 personalizado para parecer un Shelby GT500.",
+          "source_type": "court_record"
+        },
+        {
+          "title": "Gone in 60 Seconds — MotorTrend interview",
+          "url": "https://www.motortrend.com/news/1305-gone-in-60-seconds",
+          "supports": "Entrevista con Denice Halicki: Eleanor de 2000 era un Mustang 1967 regular personalizado, no un Shelby original.",
+          "source_type": "specialist_interview"
+        }
+      ],
+      "source_notes": "Separar de la Eleanor de la película original de 1974. La denominación GT500 describe la apariencia/ficción, no la identidad de fábrica del coche base.",
       "correction_notes": []
     },
     {
       "vehicle_id": "VEH-007",
       "original_name": "Dodge Charger de Toretto",
       "production_reference": "The Fast and the Furious",
-      "first_appearance_year": null,
-      "real_model_year": null,
-      "manufacturer": null,
-      "model_variant": null,
-      "nature": null,
-      "secondary_condition": [],
-      "fictional_identity": null,
-      "character_associated": null,
+      "first_appearance_year": 2001,
+      "real_model_year": 1970,
+      "manufacturer": "Dodge",
+      "model_variant": "Charger R/T 1970, modificado para la película",
+      "nature": "MOD",
+      "secondary_condition": [
+        "muscle car real modificado para ficción"
+      ],
+      "fictional_identity": "Charger negro de Dominic Toretto",
+      "character_associated": "Dominic Toretto",
       "related_vehicle_ids": [],
       "original_iconicity": 5,
       "revised_iconicity": null,
       "iconicity_justification": null,
       "verification_status": "partial",
-      "source_references": [],
-      "source_notes": "Ficha documental individual y fuentes específicas pendientes de consolidación en esta primera carga.",
+      "source_references": [
+        {
+          "title": "50-Plus Years of Hollywood's Coolest Movie Cars — HISTORY",
+          "url": "https://www.history.com/articles/50-plus-years-of-hollywoods-coolest-cars",
+          "supports": "Identifica el Charger R/T 1970 como coche de Dom en The Fast and the Furious (2001).",
+          "source_type": "editorial_historical"
+        },
+        {
+          "title": "1970 Dodge Charger in The Fast and the Furious — IMCDb",
+          "url": "https://www.imcdb.org/v002077.html",
+          "supports": "Identificación visual del modelo utilizado en la película.",
+          "source_type": "specialist_vehicle_database"
+        }
+      ],
+      "source_notes": "La identificación del año y variante está apoyada por fuentes secundarias/especializadas; falta documentación directa de producción o registro del coche hero.",
       "correction_notes": []
     },
     {
       "vehicle_id": "VEH-008",
       "original_name": "Toyota Supra de Brian",
       "production_reference": "The Fast and the Furious",
-      "first_appearance_year": null,
-      "real_model_year": null,
-      "manufacturer": null,
-      "model_variant": null,
-      "nature": null,
-      "secondary_condition": [],
-      "fictional_identity": null,
-      "character_associated": null,
+      "first_appearance_year": 2001,
+      "real_model_year": 1994,
+      "manufacturer": "Toyota",
+      "model_variant": "Supra Mk IV / A80, vehículo principal hero de Craig Lieberman, modificado para la película",
+      "nature": "MOD",
+      "secondary_condition": [
+        "vehículo real modificado para ficción"
+      ],
+      "fictional_identity": "Toyota Supra naranja de Brian O'Conner",
+      "character_associated": "Brian O'Conner",
       "related_vehicle_ids": [],
       "original_iconicity": 5,
       "revised_iconicity": null,
       "iconicity_justification": null,
       "verification_status": "partial",
-      "source_references": [],
-      "source_notes": "Ficha documental individual y fuentes específicas pendientes de consolidación en esta primera carga.",
+      "source_references": [
+        {
+          "title": "Fast & Famous: Cinema's Most Recognizable Supra — Toyota USA Newsroom",
+          "url": "https://pressroom.toyota.com/podcast/37-fast-famous-cinemas-most-recognizable-supra/",
+          "supports": "Toyota identifica el vehículo principal hero como Supra MK IV 1994 y entrevista a su propietario original Craig Lieberman; relación con Brian O'Connor.",
+          "source_type": "museum_or_institution"
+        },
+        {
+          "title": "Toyota USA Newsroom — transcripción del podcast",
+          "url": "https://pressroom.toyota.com/podcast/37-fast-famous-cinemas-most-recognizable-supra/",
+          "supports": "Detalles de la preparación y selección del coche para la película.",
+          "source_type": "museum_or_institution"
+        }
+      ],
+      "source_notes": "Fuente primaria corporativa de Toyota y testimonio del propietario original. Falta completar ficha técnica de modificaciones de las distintas unidades utilizadas.",
       "correction_notes": []
     },
     {
       "vehicle_id": "VEH-009",
       "original_name": "Ford Mustang de Bullitt",
       "production_reference": "Bullitt",
-      "first_appearance_year": null,
-      "real_model_year": null,
-      "manufacturer": null,
-      "model_variant": null,
-      "nature": null,
-      "secondary_condition": [],
-      "fictional_identity": null,
-      "character_associated": null,
+      "first_appearance_year": 1968,
+      "real_model_year": 1968,
+      "manufacturer": "Ford",
+      "model_variant": "Mustang GT Fastback 390, Highland Green; dos coches de rodaje con modificaciones de suspensión y estructura",
+      "nature": "MOD",
+      "secondary_condition": [
+        "vehículos reales modificados para rodaje"
+      ],
+      "fictional_identity": "Mustang de Bullitt",
+      "character_associated": "Detective Frank Bullitt",
       "related_vehicle_ids": [],
       "original_iconicity": 5,
       "revised_iconicity": null,
       "iconicity_justification": null,
       "verification_status": "partial",
-      "source_references": [],
-      "source_notes": "Ficha documental individual y fuentes específicas pendientes de consolidación en esta primera carga.",
+      "source_references": [
+        {
+          "title": "1968 Ford Mustang — National Historic Vehicle Register",
+          "url": "https://www.driversfoundation.org/registry/1968-ford-mustang",
+          "supports": "Identifica el Mustang Fastback verde conducido por Frank Bullitt y documenta su historia.",
+          "source_type": "museum_or_institution"
+        },
+        {
+          "title": "Ford press information — Bullitt Mustang",
+          "url": "https://www.theautochannel.com/news/2001/01/05/012295.html",
+          "supports": "Dos Mustang Fastback 1968 usados y modificados para la persecución de la película.",
+          "source_type": "manufacturer_press"
+        }
+      ],
+      "source_notes": "El registro histórico describe el coche superviviente y Ford documenta que se emplearon dos unidades; no asumir que ambas tuvieron la misma configuración o destino.",
       "correction_notes": []
     },
     {
       "vehicle_id": "VEH-010",
       "original_name": "Herbie (VW Beetle)",
       "production_reference": "The Love Bug",
-      "first_appearance_year": null,
+      "first_appearance_year": 1968,
       "real_model_year": null,
-      "manufacturer": null,
-      "model_variant": null,
-      "nature": null,
-      "secondary_condition": [],
-      "fictional_identity": null,
-      "character_associated": null,
+      "manufacturer": "Volkswagen",
+      "model_variant": "Type 1 / Beetle; Herbie se representó mediante varias unidades con diferencias de año y preparación",
+      "nature": "MOD",
+      "secondary_condition": [
+        "vehículo real modificado y caracterizado"
+      ],
+      "fictional_identity": "Herbie, el Volkswagen sensible con el número 53",
+      "character_associated": "Herbie; Jim Douglas",
       "related_vehicle_ids": [
         "VEH-049"
       ],
@@ -217,211 +355,367 @@
       "revised_iconicity": null,
       "iconicity_justification": null,
       "verification_status": "partial",
-      "source_references": [],
-      "source_notes": "Ficha documental individual y fuentes específicas pendientes de consolidación en esta primera carga.",
+      "source_references": [
+        {
+          "title": "Herbie Movie: The Love Bug — AACA Museum",
+          "url": "https://atexpa.org/exhibit/herbie-the-love-bug/",
+          "supports": "Documenta una unidad utilizada en la saga, su título de 1968 y su historial posterior; muestra que las unidades no deben confundirse.",
+          "source_type": "museum_or_institution"
+        },
+        {
+          "title": "The Love Bug (1968) — IMCDb",
+          "url": "https://www.imcdb.org/vehicle.php?id=2765",
+          "supports": "Identificación visual de un Beetle Type 1 usado en la película.",
+          "source_type": "specialist_vehicle_database"
+        }
+      ],
+      "source_notes": "No fijar un único año de modelo para Herbie como personaje: la producción utilizó múltiples coches. Hay que identificar por separado cada unidad física si se quiere documentar un ejemplar concreto.",
       "correction_notes": []
     },
     {
       "vehicle_id": "VEH-011",
       "original_name": "Christine (Plymouth Fury)",
       "production_reference": "Christine",
-      "first_appearance_year": null,
-      "real_model_year": null,
-      "manufacturer": null,
-      "model_variant": null,
-      "nature": null,
-      "secondary_condition": [],
-      "fictional_identity": null,
-      "character_associated": null,
+      "first_appearance_year": 1983,
+      "real_model_year": 1958,
+      "manufacturer": "Plymouth",
+      "model_variant": "Fury 1958",
+      "nature": "MOD",
+      "secondary_condition": [
+        "vehículo real modificado para ficción y efectos"
+      ],
+      "fictional_identity": "Christine",
+      "character_associated": "Arnie Cunningham",
       "related_vehicle_ids": [],
       "original_iconicity": 5,
       "revised_iconicity": null,
       "iconicity_justification": null,
       "verification_status": "partial",
-      "source_references": [],
-      "source_notes": "Ficha documental individual y fuentes específicas pendientes de consolidación en esta primera carga.",
+      "source_references": [
+        {
+          "title": "1958 Plymouth Fury 'Christine' — Petersen Automotive Museum",
+          "url": "https://petersen.org/pages/petersen-vehicle/1958-plymouth-fury-christine",
+          "supports": "Ficha de museo: año, marca, modelo y uso de una unidad stunt; 24 Plymouth Fury adquiridos para la producción.",
+          "source_type": "museum_or_institution"
+        },
+        {
+          "title": "Christine — AFI Catalog",
+          "url": "https://catalog.afi.com/Film/57908-CHRISTINE?cp=1&pos=1&sid=d8833146-4598-4aa1-910d-6313508a1a25&sr=0.1708107",
+          "supports": "Confirma que el coche de la película es un Plymouth Fury 1958 y aporta contexto de producción.",
+          "source_type": "museum_or_institution"
+        }
+      ],
+      "source_notes": "La película utilizó numerosas unidades, incluidas unidades de acrobacias; el museo identifica un ejemplar concreto como uno de los dos stunt cars operativos.",
       "correction_notes": []
     },
     {
       "vehicle_id": "VEH-012",
       "original_name": "Mini Cooper de The Italian Job",
       "production_reference": "The Italian Job (1969)",
-      "first_appearance_year": null,
-      "real_model_year": null,
-      "manufacturer": null,
-      "model_variant": null,
-      "nature": null,
-      "secondary_condition": [],
-      "fictional_identity": null,
-      "character_associated": null,
+      "first_appearance_year": 1969,
+      "real_model_year": 1967,
+      "manufacturer": "Austin / British Motor Corporation",
+      "model_variant": "Mini Cooper S Mk I; tres coches hero rojo, blanco y azul, dentro de una flota mayor",
+      "nature": "MOD",
+      "secondary_condition": [
+        "automóviles reales preparados para acrobacias"
+      ],
+      "fictional_identity": "Los tres Mini Cooper de The Italian Job",
+      "character_associated": "Charlie Croker y su equipo",
       "related_vehicle_ids": [],
       "original_iconicity": 5,
       "revised_iconicity": null,
       "iconicity_justification": null,
       "verification_status": "partial",
-      "source_references": [],
-      "source_notes": "Ficha documental individual y fuentes específicas pendientes de consolidación en esta primera carga.",
+      "source_references": [
+        {
+          "title": "The Italian Job Minis — film details",
+          "url": "https://www.italianjobminis.com/film-details",
+          "supports": "Identifica tres Austin Mini Cooper S Mk I y sus matrículas de rodaje.",
+          "source_type": "museum_or_institution"
+        },
+        {
+          "title": "The Italian Job Minis — archive",
+          "url": "https://www.italianjobminis.com/our-vision-the-archive",
+          "supports": "Indica que se usaron 16 Minis y seis Mk1 Cooper S hero; documenta la supervivencia de piezas y réplicas posteriores.",
+          "source_type": "specialist_archive"
+        },
+        {
+          "title": "BMW Group — 1959–2009 Fifty Years of MINI",
+          "url": "https://newsroom.bmwgroup.com/global/1959-2009-fifty-years-of-mini",
+          "supports": "Confirma el papel central de tres Mini Coopers en la película de 1969.",
+          "source_type": "manufacturer_press"
+        }
+      ],
+      "source_notes": "El catálogo representa al trío como una identidad cinematográfica; no es un solo automóvil. La fuente de archivo de fans aporta datos detallados, pero debe contrastarse con documentación de Paramount/producción.",
       "correction_notes": []
     },
     {
       "vehicle_id": "VEH-013",
       "original_name": "Tumbler",
       "production_reference": "Batman Begins",
-      "first_appearance_year": null,
+      "first_appearance_year": 2005,
       "real_model_year": null,
-      "manufacturer": null,
-      "model_variant": null,
-      "nature": null,
-      "secondary_condition": [],
-      "fictional_identity": null,
-      "character_associated": null,
+      "manufacturer": "Construcción especial de producción; diseño de Nathan Crowley",
+      "model_variant": "Tumbler, vehículo de alto rendimiento construido expresamente para Batman Begins",
+      "nature": "FIC",
+      "secondary_condition": [
+        "construcción física funcional para rodaje"
+      ],
+      "fictional_identity": "Tumbler / Batimóvil de la trilogía de Christopher Nolan",
+      "character_associated": "Bruce Wayne / Batman",
       "related_vehicle_ids": [],
       "original_iconicity": 5,
       "revised_iconicity": null,
       "iconicity_justification": null,
       "verification_status": "partial",
-      "source_references": [],
-      "source_notes": "Ficha documental individual y fuentes específicas pendientes de consolidación en esta primera carga.",
+      "source_references": [
+        {
+          "title": "Not your father's Batmobile — Los Angeles Times",
+          "url": "https://www.latimes.com/archives/la-xpm-2005-jun-12-ca-batmanbox12-story.html",
+          "supports": "Diseño de Nathan Crowley, desarrollo para Batman Begins y construcción de ocho vehículos.",
+          "source_type": "museum_or_institution"
+        },
+        {
+          "title": "Batman Begins: The Bat Takes Wing — American Society of Cinematographers",
+          "url": "https://theasc.com/article/batman-begins-the-bat-takes-wing/",
+          "supports": "Cinco Tumbler funcionales construidos para el rodaje y detalles de su uso práctico.",
+          "source_type": "professional_association"
+        }
+      ],
+      "source_notes": "No tiene modelo ni fabricante comercial de producción. Es un diseño ficticio materializado en vehículos de rodaje; no clasificarlo como un modelo real de automóvil.",
       "correction_notes": []
     },
     {
       "vehicle_id": "VEH-014",
       "original_name": "Ford Explorer de Jurassic Park",
       "production_reference": "Jurassic Park",
-      "first_appearance_year": null,
-      "real_model_year": null,
-      "manufacturer": null,
-      "model_variant": null,
-      "nature": null,
-      "secondary_condition": [],
-      "fictional_identity": null,
-      "character_associated": null,
+      "first_appearance_year": 1993,
+      "real_model_year": 1992,
+      "manufacturer": "Ford",
+      "model_variant": "Explorer primera generación, principalmente XLT; unidades modificadas y decoradas como vehículos turísticos",
+      "nature": "MOD",
+      "secondary_condition": [
+        "vehículo real modificado para ficción"
+      ],
+      "fictional_identity": "Vehículos turísticos de Jurassic Park",
+      "character_associated": "Alan Grant, Ellie Sattler, Ian Malcolm y visitantes del parque",
       "related_vehicle_ids": [],
       "original_iconicity": 4,
       "revised_iconicity": null,
       "iconicity_justification": null,
       "verification_status": "partial",
-      "source_references": [],
-      "source_notes": "Ficha documental individual y fuentes específicas pendientes de consolidación en esta primera carga.",
+      "source_references": [
+        {
+          "title": "Ford Explorer guide — Jurassic Park Motor Pool",
+          "url": "https://www.jpmotorpool.com/reference/explorer/explorer_guide.php",
+          "supports": "Identifica Explorer de primera generación y 1992 como modelo utilizado; registra variaciones de acabado entre unidades.",
+          "source_type": "specialist_archive"
+        },
+        {
+          "title": "Jurassic Park — Universal Pictures film reference",
+          "url": "https://www.universalpictures.com/movies/jurassic-park",
+          "supports": "Referencia oficial de la película y su estreno.",
+          "source_type": "museum_or_institution"
+        }
+      ],
+      "source_notes": "La fuente técnica de identificación es un archivo especializado de aficionados, no un registro de producción. No asumir que todas las unidades eran XLT idénticas.",
       "correction_notes": []
     },
     {
       "vehicle_id": "VEH-015",
       "original_name": "Ferrari réplica Modena Spyder California",
       "production_reference": "Ferris Bueller's Day Off",
-      "first_appearance_year": null,
-      "real_model_year": null,
-      "manufacturer": null,
-      "model_variant": null,
-      "nature": null,
-      "secondary_condition": [],
-      "fictional_identity": null,
-      "character_associated": null,
+      "first_appearance_year": 1986,
+      "real_model_year": 1985,
+      "manufacturer": "Modena Design & Development",
+      "model_variant": "1985 Modena Spyder California; construcción especial de fibra de vidrio inspirada en Ferrari 250 GT California",
+      "nature": "REP",
+      "secondary_condition": [
+        "réplica de diseño inspirado en Ferrari; no es un Ferrari auténtico"
+      ],
+      "fictional_identity": "El falso Ferrari 250 GT California de Ferris Bueller's Day Off",
+      "character_associated": "Cameron Frye; Ferris Bueller",
       "related_vehicle_ids": [],
       "original_iconicity": 5,
       "revised_iconicity": null,
       "iconicity_justification": null,
       "verification_status": "partial",
-      "source_references": [],
-      "source_notes": "Ficha documental individual y fuentes específicas pendientes de consolidación en esta primera carga.",
+      "source_references": [
+        {
+          "title": "1985 Modena Spyder California — National Historic Vehicle Register",
+          "url": "https://www.driversfoundation.org/registry/1985-modena-spyder-california",
+          "supports": "Registro histórico documenta construcción por Mark Goyette y Neil Glassmoyer, su uso en Ferris Bueller y las tres unidades utilizadas.",
+          "source_type": "museum_or_institution"
+        },
+        {
+          "title": "Ferris Bueller's Ferrari replica — MotorTrend",
+          "url": "https://www.motortrend.com/news/ferris-buellers-ferrari-250-gt-california-replica-heads-to-auction",
+          "supports": "Identifica el coche como Modena GT Spyder California de 1985 y no como Ferrari original.",
+          "source_type": "specialist_reference"
+        }
+      ],
+      "source_notes": "La película también empleó insertos de un Ferrari auténtico en primeros planos; el registro de esta ficha se refiere al Modena Spyder utilizado en planos generales y secuencias de acción.",
       "correction_notes": []
     },
     {
       "vehicle_id": "VEH-016",
       "original_name": "Bluesmobile (Dodge Monaco)",
       "production_reference": "The Blues Brothers",
-      "first_appearance_year": null,
-      "real_model_year": null,
-      "manufacturer": null,
-      "model_variant": null,
-      "nature": null,
-      "secondary_condition": [],
-      "fictional_identity": null,
-      "character_associated": null,
+      "first_appearance_year": 1980,
+      "real_model_year": 1974,
+      "manufacturer": "Dodge",
+      "model_variant": "Monaco 1974, antiguo coche policial; flota de varias unidades con preparaciones diferentes",
+      "nature": "MOD",
+      "secondary_condition": [
+        "vehículo policial real adaptado para la producción"
+      ],
+      "fictional_identity": "Bluesmobile",
+      "character_associated": "Elwood Blues y Jake Blues",
       "related_vehicle_ids": [],
       "original_iconicity": 4,
       "revised_iconicity": null,
       "iconicity_justification": null,
       "verification_status": "partial",
-      "source_references": [],
-      "source_notes": "Ficha documental individual y fuentes específicas pendientes de consolidación en esta primera carga.",
+      "source_references": [
+        {
+          "title": "Talking with John Landis — Trap Publishing",
+          "url": "https://trapublishing.com/blogs/interviews/talking-with-john-landis",
+          "supports": "El director John Landis confirma que Dan Aykroyd especificó un Dodge Monaco 1974 y comenta la cantidad de coches adquiridos.",
+          "source_type": "museum_or_institution"
+        },
+        {
+          "title": "Friday at the Movies: The Blues Brothers Car Chase — DMV.org",
+          "url": "https://www.dmv.org/articles/friday-at-the-movies-blues-brothers-car-chase",
+          "supports": "Documenta 12 Bluesmobiles y el uso de Dodge Monaco 1974 ex patrulla.",
+          "source_type": "editorial_reference"
+        }
+      ],
+      "source_notes": "No fue un ejemplar único: se adquirieron unas 12–13 unidades y se prepararon para distintas tareas de rodaje.",
       "correction_notes": []
     },
     {
       "vehicle_id": "VEH-017",
       "original_name": "Ford Anglia 105E",
       "production_reference": "Harry Potter and the Chamber of Secrets",
-      "first_appearance_year": null,
-      "real_model_year": null,
-      "manufacturer": null,
-      "model_variant": null,
-      "nature": null,
-      "secondary_condition": [],
-      "fictional_identity": null,
-      "character_associated": null,
+      "first_appearance_year": 2002,
+      "real_model_year": 1962,
+      "manufacturer": "Ford",
+      "model_variant": "Anglia 105E; varias unidades adaptadas para efectos y rodaje",
+      "nature": "MOD",
+      "secondary_condition": [
+        "vehículo real modificado para efectos prácticos"
+      ],
+      "fictional_identity": "Ford Anglia volador de los Weasley",
+      "character_associated": "Arthur Weasley, Ron Weasley y Harry Potter",
       "related_vehicle_ids": [],
       "original_iconicity": 4,
       "revised_iconicity": null,
       "iconicity_justification": null,
       "verification_status": "partial",
-      "source_references": [],
-      "source_notes": "Ficha documental individual y fuentes específicas pendientes de consolidación en esta primera carga.",
+      "source_references": [
+        {
+          "title": "Behind the scenes: creating the flying Ford Anglia — Wizarding World",
+          "url": "https://www.harrypotter.com/features/the-flying-ford-anglia",
+          "supports": "Confirma que era un Ford Anglia 105E de 1962; se emplearon 16 unidades con modificaciones distintas.",
+          "source_type": "museum_or_institution"
+        },
+        {
+          "title": "Ford Anglia 105E Flying Car — National Motor Museum",
+          "url": "https://nationalmotormuseum.org.uk/collections/vehicles/ford-anglia-105e-flying-car",
+          "supports": "Museo identifica una unidad real usada en Harry Potter and the Chamber of Secrets.",
+          "source_type": "museum_or_institution"
+        }
+      ],
+      "source_notes": "La flota incluía unidades con motor retirado, secciones cortadas, soportes de efectos y vehículos dañados. El año 1962 corresponde al Anglia descrito por Wizarding World, no necesariamente a todas las unidades.",
       "correction_notes": []
     },
     {
       "vehicle_id": "VEH-018",
       "original_name": "Autobús de Speed",
       "production_reference": "Speed",
-      "first_appearance_year": null,
+      "first_appearance_year": 1994,
       "real_model_year": null,
-      "manufacturer": null,
-      "model_variant": null,
-      "nature": null,
-      "secondary_condition": [],
-      "fictional_identity": null,
-      "character_associated": null,
+      "manufacturer": "General Motors Coach Division; también hubo unidades Grumman y Flxible en la producción",
+      "model_variant": "GM New Look, principalmente TDH-5303 y otras variantes; flota de autobuses preparados para distintas secuencias",
+      "nature": "MOD",
+      "secondary_condition": [
+        "autobuses reales modificados para rodaje y acrobacias"
+      ],
+      "fictional_identity": "Autobús de la línea ficticia 33 en Speed",
+      "character_associated": "Jack Traven y Annie Porter",
       "related_vehicle_ids": [],
       "original_iconicity": 4,
       "revised_iconicity": null,
       "iconicity_justification": null,
       "verification_status": "partial",
-      "source_references": [],
-      "source_notes": "Ficha documental individual y fuentes específicas pendientes de consolidación en esta primera carga.",
+      "source_references": [
+        {
+          "title": "Speed — Buses on Screen",
+          "url": "https://www.busesonscreen.com/ffilms/ffilms/speed",
+          "supports": "Registra 16 autobuses GM New Look, variantes y unidades adicionales de otras marcas usadas en la película.",
+          "source_type": "specialist_archive"
+        },
+        {
+          "title": "Speed — IMCDb",
+          "url": "https://www.imcdb.org/vehicle.php?id=6501",
+          "supports": "Identificación visual de un GM TDH-5303 New Look presente en pantalla.",
+          "source_type": "specialist_vehicle_database"
+        }
+      ],
+      "source_notes": "No hay un solo autobús modelo: se usó una flota de unidades distintas para saltos, explosiones, tomas interiores y exteriores. La identificación individual de la unidad principal queda pendiente.",
       "correction_notes": []
     },
     {
       "vehicle_id": "VEH-019",
       "original_name": "Volkswagen Type 2 de Little Miss Sunshine",
       "production_reference": "Little Miss Sunshine",
-      "first_appearance_year": null,
+      "first_appearance_year": 2006,
       "real_model_year": null,
-      "manufacturer": null,
-      "model_variant": null,
-      "nature": null,
-      "secondary_condition": [],
-      "fictional_identity": null,
-      "character_associated": null,
+      "manufacturer": "Volkswagen",
+      "model_variant": "Type 2 / Transporter T2; cinco furgonetas de finales de los años setenta adaptadas para continuidad visual y distintos planos",
+      "nature": "MOD",
+      "secondary_condition": [
+        "flota de vehículos reales modificados para rodaje"
+      ],
+      "fictional_identity": "Volkswagen amarillo de la familia Hoover",
+      "character_associated": "Familia Hoover",
       "related_vehicle_ids": [],
       "original_iconicity": 4,
       "revised_iconicity": null,
       "iconicity_justification": null,
       "verification_status": "partial",
-      "source_references": [],
-      "source_notes": "Ficha documental individual y fuentes específicas pendientes de consolidación en esta primera carga.",
+      "source_references": [
+        {
+          "title": "Road Trip Gone Awry — Directors Guild of America",
+          "url": "https://www.dga.org/craft/dgaq/issues/1804-fall-2018/shot-to-remember-little-miss-sunshine",
+          "supports": "Los directores explican que reunieron cinco VW Bus de finales de los 70 y los personalizaron para igualarlos.",
+          "source_type": "museum_or_institution"
+        },
+        {
+          "title": "Little Miss Sunshine interview — The Eagle",
+          "url": "https://www.theeagleonline.com/article/2006/06/little-miss-sunshine-interview",
+          "supports": "Entrevista a los directores sobre la elección de la furgoneta y el uso de cinco unidades.",
+          "source_type": "contemporary_interview"
+        }
+      ],
+      "source_notes": "No fijar un único año/modelo exacto: se utilizaron cinco furgonetas de época similar, con modificaciones y detalles igualados.",
       "correction_notes": []
     },
     {
       "vehicle_id": "VEH-020",
       "original_name": "Harley-Davidson FLH de Easy Rider",
       "production_reference": "Easy Rider",
-      "first_appearance_year": null,
+      "first_appearance_year": 1969,
       "real_model_year": null,
-      "manufacturer": null,
-      "model_variant": null,
-      "nature": null,
-      "secondary_condition": [],
-      "fictional_identity": null,
-      "character_associated": null,
+      "manufacturer": "Harley-Davidson (motor Panhead); construcción custom por Ben Hardy y Cliff Vaughs",
+      "model_variant": "Chopper Captain America; base Harley-Davidson Panhead con bastidor rígido y horquilla delantera extendida",
+      "nature": "MOD",
+      "secondary_condition": [
+        "motocicleta custom construida para la película"
+      ],
+      "fictional_identity": "Captain America chopper",
+      "character_associated": "Wyatt / Captain America (Peter Fonda)",
       "related_vehicle_ids": [
         "VEH-076"
       ],
@@ -429,113 +723,208 @@
       "revised_iconicity": null,
       "iconicity_justification": null,
       "verification_status": "partial",
-      "source_references": [],
-      "source_notes": "Ficha documental individual y fuentes específicas pendientes de consolidación en esta primera carga.",
+      "source_references": [
+        {
+          "title": "Easy Rider, Captain America Bike — National Motorcycle Museum",
+          "url": "https://nationalmcmuseum.org/2019/07/12/easy-rider-captain-america-bike/",
+          "supports": "Historia de la creación de Captain America y Billy por Ben Hardy y Cliff Vaughs; distingue las motos originales de las réplicas del museo.",
+          "source_type": "museum_or_institution"
+        },
+        {
+          "title": "Easy Rider Captain America — Heritage Auctions",
+          "url": "https://entertainment.ha.com/itm/movie-tv-memorabilia/original-studio-commissioned-iconic-easy-rider-captain-america-motorcycle-used-to-promote-the-film-in-1970-from-the-collec/a/997066-1297.s",
+          "supports": "Describe una moto promocional posterior de 1970 con motor Harley-Davidson Panhead 1950; no confundirla con la unidad de rodaje.",
+          "source_type": "auction_provenance"
+        }
+      ],
+      "source_notes": "La motocicleta original de rodaje y la moto promocional construida después son objetos distintos. No asignar el año 1950 de la moto promocional a la unidad de rodaje. La original que sobrevive es la unidad estrellada; otras desaparecieron.",
       "correction_notes": []
     },
     {
       "vehicle_id": "VEH-021",
       "original_name": "Chitty Chitty Bang Bang",
       "production_reference": "Chitty Chitty Bang Bang",
-      "first_appearance_year": null,
-      "real_model_year": null,
-      "manufacturer": null,
-      "model_variant": null,
-      "nature": null,
-      "secondary_condition": [],
-      "fictional_identity": null,
-      "character_associated": null,
+      "first_appearance_year": 1968,
+      "real_model_year": 1967,
+      "manufacturer": "Construida por Alan Mann Racing; diseño de Ken Adam y Rowland Emett",
+      "model_variant": "Chitty Chitty Bang Bang; automóvil especial de carrocería artesanal y chasis a medida; Ford V6 en la unidad de carretera",
+      "nature": "FIC",
+      "secondary_condition": [
+        "construcciones físicas especiales para rodaje; varias versiones"
+      ],
+      "fictional_identity": "Chitty Chitty Bang Bang",
+      "character_associated": "Caractacus Potts y familia",
       "related_vehicle_ids": [],
       "original_iconicity": 5,
       "revised_iconicity": null,
       "iconicity_justification": null,
       "verification_status": "partial",
-      "source_references": [],
-      "source_notes": "Ficha documental individual y fuentes específicas pendientes de consolidación en esta primera carga.",
+      "source_references": [
+        {
+          "title": "Chitty Chitty Bang Bang — National Motor Museum",
+          "url": "https://nationalmotormuseum.org.uk/collections/vehicles/chitty-chitty-bang-bang/",
+          "supports": "Museo documenta la versión de la película, su origen literario y atribuye su fabricación a Paragon Motor Company (reconstrucción de Caractacus Potts).",
+          "source_type": "museum_or_institution"
+        },
+        {
+          "title": "On Screen Cars — National Motor Museum",
+          "url": "https://nationalmotormuseum.org.uk/story-of-motoring/exhibitions/on-screen-cars/",
+          "supports": "El museo documenta seis Chitty originales construidos por Alan Mann para la película.",
+          "source_type": "museum_or_institution"
+        },
+        {
+          "title": "Chitty Chitty Bang Bang — AFI Catalog",
+          "url": "https://catalog.afi.com/Film/23677-CHITTY-CHITTY-BANG-BANG",
+          "supports": "AFI confirma que se construyeron varias versiones del coche para distintas secuencias.",
+          "source_type": "museum_or_institution"
+        }
+      ],
+      "source_notes": "El personaje es ficticio, pero se materializó en seis coches/props diferentes. No describirlo como un único automóvil real ni atribuir un único chasis a todas las versiones.",
       "correction_notes": []
     },
     {
       "vehicle_id": "VEH-022",
       "original_name": "Landmaster",
       "production_reference": "Damnation Alley",
-      "first_appearance_year": null,
-      "real_model_year": null,
-      "manufacturer": null,
-      "model_variant": null,
-      "nature": null,
-      "secondary_condition": [],
-      "fictional_identity": null,
-      "character_associated": null,
+      "first_appearance_year": 1977,
+      "real_model_year": 1976,
+      "manufacturer": "Vehículo experimental construido para la película; diseño asociado a Dean Jeffries y Vehicle Systems Development Corporation",
+      "model_variant": "Landmaster, vehículo articulado todoterreno de doce ruedas con motor industrial Ford 391",
+      "nature": "FIC",
+      "secondary_condition": [
+        "prototipo/construcción física funcional para rodaje"
+      ],
+      "fictional_identity": "Landmaster de Damnation Alley",
+      "character_associated": "Tanner y el grupo de supervivientes",
       "related_vehicle_ids": [],
       "original_iconicity": 3,
       "revised_iconicity": null,
       "iconicity_justification": null,
       "verification_status": "partial",
-      "source_references": [],
-      "source_notes": "Ficha documental individual y fuentes específicas pendientes de consolidación en esta primera carga.",
+      "source_references": [
+        {
+          "title": "Damnation Alley — AFI Catalog",
+          "url": "https://catalog.afi.com/Catalog/MovieDetails/55428",
+          "supports": "AFI, a partir de materiales de AMPAS, documenta el vehículo de doce ruedas, la patente de Vehicle Systems Development Corporation y el motor industrial Ford 391.",
+          "source_type": "museum_or_institution"
+        },
+        {
+          "title": "1976 Jeffries Landmaster — IMCDb",
+          "url": "https://www.imcdb.org/vehicle_33041-Made-for-Movie-Landmaster.html",
+          "supports": "Identificación de la construcción cinematográfica como Landmaster de 1976.",
+          "source_type": "specialist_vehicle_database"
+        }
+      ],
+      "source_notes": "AFI confirma una sola unidad física fabricada aunque la película represente dos. 1976 se refiere a la construcción, no a un año de modelo comercial.",
       "correction_notes": []
     },
     {
       "vehicle_id": "VEH-023",
       "original_name": "The Dragon",
       "production_reference": "Death Race 2000",
-      "first_appearance_year": null,
+      "first_appearance_year": 1975,
       "real_model_year": null,
-      "manufacturer": null,
-      "model_variant": null,
-      "nature": null,
-      "secondary_condition": [],
-      "fictional_identity": null,
-      "character_associated": null,
+      "manufacturer": "Construcción especial para la película; diseño de coches acreditado a Dean Jeffries",
+      "model_variant": "Coche de Frankenstein con carrocería temática de dragón; base mecánica exacta pendiente de confirmar",
+      "nature": "HIB",
+      "secondary_condition": [
+        "vehículo ficticio materializado como coche de carreras custom",
+        "posible base Volkswagen re-carrozada; pendiente de fuente técnica sólida"
+      ],
+      "fictional_identity": "Dragon car de Frankenstein en Death Race 2000",
+      "character_associated": "Frankenstein y Annie",
       "related_vehicle_ids": [],
       "original_iconicity": 3,
       "revised_iconicity": null,
       "iconicity_justification": null,
-      "verification_status": "partial",
-      "source_references": [],
-      "source_notes": "Ficha documental individual y fuentes específicas pendientes de consolidación en esta primera carga.",
+      "verification_status": "pending",
+      "source_references": [
+        {
+          "title": "Death Race 2000 — AFI Catalog",
+          "url": "https://catalog.afi.com/Film/55430-DEATH-RACE2000?cxt=filmography",
+          "supports": "Confirma producción, personajes y que Dean Jeffries diseñó los coches; el resumen no identifica la base mecánica del Dragon.",
+          "source_type": "museum_or_institution"
+        },
+        {
+          "title": "Death Race 2000 — Sci-Fi Saturdays",
+          "url": "https://retrozap.com/death-race-2000-1975-sci-fi-saturdays/",
+          "supports": "Identifica el coche de Frankenstein como vehículo con diseño de dragón.",
+          "source_type": "specialist_editorial"
+        }
+      ],
+      "source_notes": "Identidad visual y asociación con Frankenstein identificadas, pero no hay fuente institucional o técnica sólida en esta revisión que confirme la base mecánica. No dar por probado que fuera un Volkswagen re-carrozado; requiere investigación adicional.",
       "correction_notes": []
     },
     {
       "vehicle_id": "VEH-024",
       "original_name": "Deuce Coupe",
       "production_reference": "American Graffiti",
-      "first_appearance_year": null,
-      "real_model_year": null,
-      "manufacturer": null,
-      "model_variant": null,
-      "nature": null,
-      "secondary_condition": [],
-      "fictional_identity": null,
-      "character_associated": null,
+      "first_appearance_year": 1973,
+      "real_model_year": 1932,
+      "manufacturer": "Ford (base); hot rod reconstruido para la película",
+      "model_variant": "1932 Ford five-window Deuce Coupe, techo recortado, guardabarros modificados y motor Chevrolet V8 327",
+      "nature": "MOD",
+      "secondary_condition": [
+        "hot rod real profundamente modificado"
+      ],
+      "fictional_identity": "Deuce Coupe amarillo de American Graffiti",
+      "character_associated": "John Milner",
       "related_vehicle_ids": [],
       "original_iconicity": 5,
       "revised_iconicity": null,
       "iconicity_justification": null,
       "verification_status": "partial",
-      "source_references": [],
-      "source_notes": "Ficha documental individual y fuentes específicas pendientes de consolidación en esta primera carga.",
+      "source_references": [
+        {
+          "title": "American Graffiti (1973) — Hachette Cars on Screen",
+          "url": "https://www.hachette-collections.com/medias/en-us/download-center/A21_FF_14_US.pdf",
+          "supports": "Identifica el coche amarillo de John Milner como Ford coupé 1932 y detalla su preparación para la película.",
+          "source_type": "specialist_reference"
+        },
+        {
+          "title": "The '32 Deuce Coupe — Cars of American Graffiti",
+          "url": "https://www.americangraffiti.net/movie/cars/ducecoupe/",
+          "supports": "Describe reconstrucción del hot rod, modificaciones de carrocería y acabado amarillo.",
+          "source_type": "specialist_archive"
+        }
+      ],
+      "source_notes": "No era un Deuce Coupe de serie sin modificar: la producción lo transformó en un hot rod con piezas y tren motriz modificados.",
       "correction_notes": []
     },
     {
       "vehicle_id": "VEH-025",
       "original_name": "Spinner",
       "production_reference": "Blade Runner",
-      "first_appearance_year": null,
+      "first_appearance_year": 1982,
       "real_model_year": null,
-      "manufacturer": null,
-      "model_variant": null,
-      "nature": null,
-      "secondary_condition": [],
-      "fictional_identity": null,
-      "character_associated": null,
+      "manufacturer": "Gene Winfield Custom Car Designs (construcción); diseño de Syd Mead",
+      "model_variant": "Spinner policial; vehículo futurista ficticio construido en fibra de vidrio, metal, aluminio y Plexiglas",
+      "nature": "FIC",
+      "secondary_condition": [
+        "maqueta y vehículos físicos de efectos especiales"
+      ],
+      "fictional_identity": "Spinner policial de Blade Runner",
+      "character_associated": "Rick Deckard y policía de Los Ángeles",
       "related_vehicle_ids": [],
       "original_iconicity": 5,
       "revised_iconicity": null,
       "iconicity_justification": null,
       "verification_status": "partial",
-      "source_references": [],
-      "source_notes": "Ficha documental individual y fuentes específicas pendientes de consolidación en esta primera carga.",
+      "source_references": [
+        {
+          "title": "Flying Spinner Police Vehicle — Museum of Pop Culture",
+          "url": "https://mopop.emuseum.com/objects/135012/flying-spinner-police-vehicle-from-the-film-blade-runner",
+          "supports": "Objeto de colección: diseñador Syd Mead, fabricante Gene Winfield Custom Car Designs, fecha 1982 y materiales.",
+          "source_type": "museum_or_institution"
+        },
+        {
+          "title": "Special effects in Blade Runner (Spinners) — ACMI",
+          "url": "https://www.acmi.net.au/works/100872--special-effects-in-blade-runner-spinners/",
+          "supports": "Documenta modelos, tres versiones de tamaño real y efectos de suspensión/cableado para las escenas de vuelo.",
+          "source_type": "museum_collection"
+        }
+      ],
+      "source_notes": "El Spinner no es un modelo de automóvil real. Se construyeron modelos y tres versiones a tamaño real para efectos y tomas de interior/exterior.",
       "correction_notes": []
     },
     {
