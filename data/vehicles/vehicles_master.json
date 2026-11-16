@@ -22,7 +22,7 @@
       "original_iconicity": 5,
       "revised_iconicity": null,
       "iconicity_justification": null,
-      "verification_status": "partial",
+      "verification_status": "confirmed",
       "source_references": [
         {
           "title": "1981 DeLorean DMC-12 Time Machine — Petersen Automotive Museum",
@@ -136,7 +136,7 @@
       "original_iconicity": 5,
       "revised_iconicity": null,
       "iconicity_justification": null,
-      "verification_status": "partial",
+      "verification_status": "confirmed",
       "source_references": [
         {
           "title": "Cars on Screen — Ghostbusters (1984) — Hachette",
@@ -208,7 +208,7 @@
       "original_iconicity": 5,
       "revised_iconicity": null,
       "iconicity_justification": null,
-      "verification_status": "partial",
+      "verification_status": "confirmed",
       "source_references": [
         {
           "title": "Eleanor Licensing LLC v. Classic Recreations LLC (2018) — California Court of Appeal",
@@ -280,7 +280,7 @@
       "original_iconicity": 5,
       "revised_iconicity": null,
       "iconicity_justification": null,
-      "verification_status": "partial",
+      "verification_status": "confirmed",
       "source_references": [
         {
           "title": "Fast & Famous: Cinema's Most Recognizable Supra — Toyota USA Newsroom",
@@ -316,7 +316,7 @@
       "original_iconicity": 5,
       "revised_iconicity": null,
       "iconicity_justification": null,
-      "verification_status": "partial",
+      "verification_status": "confirmed",
       "source_references": [
         {
           "title": "1968 Ford Mustang — National Historic Vehicle Register / Hagerty Drivers Foundation",
@@ -390,7 +390,7 @@
       "original_iconicity": 5,
       "revised_iconicity": null,
       "iconicity_justification": null,
-      "verification_status": "partial",
+      "verification_status": "confirmed",
       "source_references": [
         {
           "title": "1958 Plymouth Fury 'Christine' — Petersen Automotive Museum",
@@ -462,7 +462,7 @@
       "original_iconicity": 5,
       "revised_iconicity": null,
       "iconicity_justification": null,
-      "verification_status": "partial",
+      "verification_status": "confirmed",
       "source_references": [
         {
           "title": "Batman Begins: The Bat Takes Wing — American Society of Cinematographers",
@@ -528,7 +528,7 @@
       "original_iconicity": 5,
       "revised_iconicity": null,
       "iconicity_justification": null,
-      "verification_status": "partial",
+      "verification_status": "confirmed",
       "source_references": [
         {
           "title": "1985 Modena Spyder California — National Historic Vehicle Register",
@@ -564,7 +564,7 @@
       "original_iconicity": 4,
       "revised_iconicity": null,
       "iconicity_justification": null,
-      "verification_status": "partial",
+      "verification_status": "confirmed",
       "source_references": [
         {
           "title": "Talking with John Landis — Trap Publishing",
@@ -600,7 +600,7 @@
       "original_iconicity": 4,
       "revised_iconicity": null,
       "iconicity_justification": null,
-      "verification_status": "partial",
+      "verification_status": "confirmed",
       "source_references": [
         {
           "title": "Behind the scenes: creating the flying Ford Anglia — Wizarding World",
@@ -680,7 +680,7 @@
     },
     {
       "vehicle_id": "VEH-020",
-      "original_name": "Harley-Davidson FLH de Easy Rider",
+      "original_name": "Chopper Captain America (Easy Rider)",
       "production_reference": "Easy Rider",
       "first_appearance_year": 1969,
       "real_model_year": null,
@@ -708,7 +708,9 @@
         }
       ],
       "source_notes": "La selección original decía Harley-Davidson FLH, pero la fuente museística describe una chopper artesanal y no acredita que la moto completa fuera un modelo FLH de fábrica. Se retira FLH como especificación confirmada; falta documentación técnica fiable del motor/chasis de la unidad de rodaje. Una de las motos fue destruida en el final y las restantes fueron robadas.",
-      "correction_notes": []
+      "correction_notes": [
+        "Se retira FLH del nombre de catálogo: no hay evidencia suficiente para identificar la motocicleta completa como un modelo FLH de fábrica."
+      ]
     },
     {
       "vehicle_id": "VEH-021",
@@ -764,7 +766,7 @@
       "original_iconicity": 3,
       "revised_iconicity": null,
       "iconicity_justification": null,
-      "verification_status": "partial",
+      "verification_status": "confirmed",
       "source_references": [
         {
           "title": "Damnation Alley — AFI Catalog",
@@ -866,7 +868,7 @@
       "original_iconicity": 5,
       "revised_iconicity": null,
       "iconicity_justification": null,
-      "verification_status": "partial",
+      "verification_status": "confirmed",
       "source_references": [
         {
           "title": "Flying Spinner Police Vehicle from Blade Runner — Museum of Pop Culture",
