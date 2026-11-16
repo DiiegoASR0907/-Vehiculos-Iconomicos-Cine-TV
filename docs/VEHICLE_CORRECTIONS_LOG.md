@@ -83,3 +83,26 @@ La matriz de consolidación conversacional contiene algunas discrepancias de pun
 - VEH-025: Spinner de Blade Runner (1982), diseño de Syd Mead y construcción de Gene Winfield; MoPOP y ACMI documentan el objeto y sus versiones de efectos.
 
 Este bloque queda **documentado en primera pasada, no cerrado**. Ninguna de las 25 fichas se marca como confirmada; 24 permanecen parciales y VEH-023 pendiente.
+
+
+## Segunda pasada de control documental — VEH-001 a VEH-025
+
+Se reforzaron las fuentes y se corrigieron las siguientes afirmaciones:
+
+- VEH-001: el Petersen identifica una unidad de colección 1981 DMC-12, convertida por Universal Studios. Ese año es propio de la unidad documentada, no de todas las unidades usadas.
+- VEH-002: el Petersen atribuye al coche un donante 1967 Impala y chasis Impala modificados; el reportaje contemporáneo de Los Angeles Times menciona 1968. Se deja la diferencia explícita sin fijar año del conjunto.
+- VEH-003: DP216/1 fue el prototipo DB5 usado como coche de efectos/gadgets; DB5/1486/R fue un coche de producción utilizado para conducción. No fusionar ambos ejemplares.
+- VEH-004: la película empleó dos Cadillac 1959 Miller-Meteor; uno negro prestado para planos iniciales y otro blanco/rojo como hero car.
+- VEH-005: se corrigió la URL de la ficha Hachette del Falcon XB GT 1973.
+- VEH-006: sentencia de apelación confirma que Eleanor (remake 2000) era un Mustang Fastback 1967 personalizado y que llamarlo Shelby GT500 era erróneo.
+- VEH-009: el National Historic Vehicle Register y Ford documentan dos Mustang 1968, VIN 8R02S125558 (stunt) y 8R02S125559 (hero).
+- VEH-013: se distinguen ocho vehículos construidos en total (Los Angeles Times) y cinco Tumbler funcionales (American Society of Cinematographers).
+- VEH-017: fuente oficial de Wizarding World y British Motor Museum confirman Ford Anglia 105E 1962 y flota de 16 vehículos adaptados.
+- VEH-018: el autobús central se identifica dentro de una flota de 16 GM New Look y otras unidades; las variantes fueron modificadas para distintas tomas.
+- VEH-019: los directores Jonathan Dayton y Valerie Faris confirmaron a DGA que la producción reunió cinco VW Bus de finales de los setenta.
+- VEH-020: FLH se retira como designación confirmada. El registro del National Motorcycle Museum acredita una chopper hecha por Ben Hardy y Cliff Vaughs, pero no el modelo de fábrica FLH.
+- VEH-021: National Motor Museum confirma seis Chitty originales construidos por Alan Mann Racing.
+- VEH-022: AFI confirma que solo se fabricó una unidad Land Master, pese a que la película representa dos.
+- VEH-025: MoPOP acredita diseñador Syd Mead, fabricante Gene Winfield y pieza fechada en 1982; ACMI documenta tres versiones a tamaño real y modelos de efectos.
+
+La revisión mantiene 24 fichas parciales y una pendiente (VEH-023). No se elevan estados a confirmado sin una matriz campo-por-campo con evidencia suficiente.
