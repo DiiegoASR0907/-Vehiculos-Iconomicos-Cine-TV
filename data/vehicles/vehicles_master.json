@@ -511,15 +511,9 @@
           "url": "https://www.jpmotorpool.com/reference/explorer/explorer_guide.php",
           "supports": "Identifica Explorer de primera generación y 1992 como modelo utilizado; registra variaciones de acabado entre unidades.",
           "source_type": "specialist_archive"
-        },
-        {
-          "title": "Jurassic Park — Universal Pictures film reference",
-          "url": "https://www.universalpictures.com/movies/jurassic-park",
-          "supports": "Referencia oficial de la película y su estreno.",
-          "source_type": "museum_or_institution"
         }
       ],
-      "source_notes": "La fuente técnica de identificación es un archivo especializado de aficionados, no un registro de producción. No asumir que todas las unidades eran XLT idénticas.",
+      "source_notes": "La fuente técnica de identificación es un archivo especializado de aficionados, no un registro de producción. No asumir que todas las unidades eran XLT idénticas; queda pendiente una fuente primaria o institucional de la flota.",
       "correction_notes": []
     },
     {
@@ -709,7 +703,7 @@
       "first_appearance_year": 1969,
       "real_model_year": null,
       "manufacturer": "Harley-Davidson (motor Panhead); construcción custom por Ben Hardy y Cliff Vaughs",
-      "model_variant": "Chopper Captain America; base Harley-Davidson Panhead con bastidor rígido y horquilla delantera extendida",
+      "model_variant": "Chopper Captain America; motocicleta custom de bastidor rígido, horquilla delantera extendida y depósito pintado con diseño estadounidense",
       "nature": "MOD",
       "secondary_condition": [
         "motocicleta custom construida para la película"
@@ -737,7 +731,7 @@
           "source_type": "auction_provenance"
         }
       ],
-      "source_notes": "La motocicleta original de rodaje y la moto promocional construida después son objetos distintos. No asignar el año 1950 de la moto promocional a la unidad de rodaje. La original que sobrevive es la unidad estrellada; otras desaparecieron.",
+      "source_notes": "La motocicleta original de rodaje y la moto promocional construida después son objetos distintos. La fuente de subasta documenta un motor Panhead de 1950 en una unidad promocional, pero no debe asignarse ese año automáticamente a la motocicleta original de rodaje.",
       "correction_notes": []
     },
     {
@@ -745,7 +739,7 @@
       "original_name": "Chitty Chitty Bang Bang",
       "production_reference": "Chitty Chitty Bang Bang",
       "first_appearance_year": 1968,
-      "real_model_year": 1967,
+      "real_model_year": null,
       "manufacturer": "Construida por Alan Mann Racing; diseño de Ken Adam y Rowland Emett",
       "model_variant": "Chitty Chitty Bang Bang; automóvil especial de carrocería artesanal y chasis a medida; Ford V6 en la unidad de carretera",
       "nature": "FIC",
@@ -779,7 +773,7 @@
           "source_type": "museum_or_institution"
         }
       ],
-      "source_notes": "El personaje es ficticio, pero se materializó en seis coches/props diferentes. No describirlo como un único automóvil real ni atribuir un único chasis a todas las versiones.",
+      "source_notes": "El coche ficticio fue materializado en seis construcciones/props diferentes. La unidad de carretera se construyó en 1967 por Alan Mann Racing; el año de construcción no equivale a un año de modelo comercial.",
       "correction_notes": []
     },
     {
@@ -787,7 +781,7 @@
       "original_name": "Landmaster",
       "production_reference": "Damnation Alley",
       "first_appearance_year": 1977,
-      "real_model_year": 1976,
+      "real_model_year": null,
       "manufacturer": "Vehículo experimental construido para la película; diseño asociado a Dean Jeffries y Vehicle Systems Development Corporation",
       "model_variant": "Landmaster, vehículo articulado todoterreno de doce ruedas con motor industrial Ford 391",
       "nature": "FIC",
@@ -815,7 +809,7 @@
           "source_type": "specialist_vehicle_database"
         }
       ],
-      "source_notes": "AFI confirma una sola unidad física fabricada aunque la película represente dos. 1976 se refiere a la construcción, no a un año de modelo comercial.",
+      "source_notes": "AFI confirma una sola unidad física fabricada aunque la película represente dos. El vehículo fue una construcción especial basada en un diseño/invento patentado; 1976 es año de construcción referido por fuentes secundarias, no año de modelo comercial.",
       "correction_notes": []
     },
     {
@@ -826,10 +820,9 @@
       "real_model_year": null,
       "manufacturer": "Construcción especial para la película; diseño de coches acreditado a Dean Jeffries",
       "model_variant": "Coche de Frankenstein con carrocería temática de dragón; base mecánica exacta pendiente de confirmar",
-      "nature": "HIB",
+      "nature": "FIC",
       "secondary_condition": [
-        "vehículo ficticio materializado como coche de carreras custom",
-        "posible base Volkswagen re-carrozada; pendiente de fuente técnica sólida"
+        "vehículo ficticio materializado como coche de carreras custom"
       ],
       "fictional_identity": "Dragon car de Frankenstein en Death Race 2000",
       "character_associated": "Frankenstein y Annie",
@@ -852,7 +845,7 @@
           "source_type": "specialist_editorial"
         }
       ],
-      "source_notes": "Identidad visual y asociación con Frankenstein identificadas, pero no hay fuente institucional o técnica sólida en esta revisión que confirme la base mecánica. No dar por probado que fuera un Volkswagen re-carrozado; requiere investigación adicional.",
+      "source_notes": "Identidad visual y asociación con Frankenstein identificadas, pero no hay fuente institucional o técnica sólida en esta revisión que confirme la base mecánica. La afirmación de que era un Volkswagen re-carrozado no se incorpora como hecho.",
       "correction_notes": []
     },
     {
