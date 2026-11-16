@@ -75,3 +75,44 @@
 - Hagerty/National Historic Vehicle Register, Modena: https://www.driversfoundation.org/registry/1985-modena-spyder-california — tres construcciones y uso de cada una en la película.
 - Heritage Auctions, moto promocional de *Easy Rider*: https://entertainment.ha.com/itm/movie-tv-memorabilia/original-studio-commissioned-iconic-easy-rider-captain-america-motorcycle-used-to-promote-the-film-in-1970-from-the-colle/a/997066-1297.s — fuente para una moto promocional construida en 1970; no acredita el ejemplar original de rodaje.
 - AFI, *Death Race 2000*: https://catalog.afi.com/Catalog/MovieDetails/55430?cxt=filmography — producción, fecha de estreno y crédito de diseño de coches a Dean Jeffries; no identifica la base mecánica del Dragon.
+
+
+## Decisión editorial de estados — revisión ficha por ficha (16-11-2026)
+
+**Criterio aplicado:** `confirmed` significa que la identidad de catálogo, producción, año de primera aparición, naturaleza, personaje y modelo/fabricante cuando aplican están suficientemente respaldados para el alcance declarado. No exige reconstruir cada VIN o cada unidad de una flota si la ficha describe expresamente varias unidades. Los datos específicos no demostrados permanecen acotados en las notas y no se generalizan.
+
+| ID | Estado decidido | Motivo de la decisión |
+|---|---|---|
+| VEH-001 | confirmed | DMC-12 y conversión cinematográfica identificados; 1981 se limita al ejemplar del Petersen, no a toda la flota. |
+| VEH-002 | partial | La discrepancia Impala 1967/1968 no está resuelta; se mantiene sin año-modelo. |
+| VEH-003 | partial | La distinción DP216/1 y DB5/1486/R está documentada, pero queda por cerrar la cronología de la posible aparición previa del prototipo. |
+| VEH-004 | confirmed | Cadillac 1959 Miller-Meteor y dos unidades/funciones diferenciadas están respaldados; no se fuerza un VIN único ni se generaliza una variante a ambas. |
+| VEH-005 | partial | La base XB GT 1973 está identificada, pero la conexión con la unidad de rodaje aún depende de un archivo de propietarios/especialistas. |
+| VEH-006 | confirmed | La sentencia de apelación identifica el Eleanor del remake como Mustang Fastback 1967 personalizado y descarta que fuera un Shelby GT500 de fábrica. |
+| VEH-007 | partial | Charger R/T 1970 se apoya en fuentes secundarias; falta corroboración de producción o archivo primario. |
+| VEH-008 | confirmed | Toyota USA identifica el Supra hero como MK IV de 1994 y aporta testimonio del propietario/participante en la preparación. |
+| VEH-009 | confirmed | Registro histórico y Ford identifican el Mustang 1968, VIN hero y coche stunt, y su función en la película. |
+| VEH-010 | partial | El Beetle Type 1 y el debut de Herbie están identificados, pero no la flota completa ni los años de cada unidad. |
+| VEH-011 | confirmed | Petersen y AFI respaldan el Plymouth Fury 1958 y su uso en la película; el recuento de 24 se conserva como alcance de flota. |
+| VEH-012 | partial | El trío de Mini Cooper S está identificado, pero falta conciliar de forma independiente la flota total, unidades hero y años/matrículas de cada ejemplar. |
+| VEH-013 | confirmed | El diseño/vehículo de producción está identificado; las cifras de cinco funcionales y ocho totales describen alcances distintos y quedan diferenciadas. |
+| VEH-014 | partial | Año 1992, XLT y excepción XL dependen de un archivo de aficionados; falta fuente primaria/institucional de producción. |
+| VEH-015 | confirmed | El registro histórico identifica la réplica Modena de 1985, su constructor y las tres unidades usadas; no se confunde con un Ferrari auténtico. |
+| VEH-016 | confirmed | Entrevista directa con John Landis confirma Dodge Monaco 1974 y adquisición de 12–13 unidades. |
+| VEH-017 | confirmed | Wizarding World recoge al supervisor de efectos identificando Anglia 105E 1962 y 16 unidades; el museo aporta corroboración. |
+| VEH-018 | partial | La flota y sus fabricantes están descritos por un archivo especializado; falta asignar cada modelo a cada secuencia. |
+| VEH-019 | partial | DGA confirma cinco VW Bus de finales de los setenta, pero no acredita en esa referencia la variante T2 ni un año-modelo individual. |
+| VEH-020 | partial | Se confirma la naturaleza artesanal y sus constructores, pero no la ficha técnica/procedencia completa del chopper original. Se elimina FLH como identificación confirmada. |
+| VEH-021 | partial | Se confirman seis construcciones de Alan Mann Racing, pero el motor Ford V6 y las especificaciones de la unidad de carretera requieren fuente técnica específica. |
+| VEH-022 | confirmed | AFI describe doce ruedas, motor industrial Ford 391 y una sola unidad construida; no se le atribuye año-modelo comercial. |
+| VEH-023 | pending | No se ha identificado la base mecánica ni se ha confirmado suficientemente la asociación exacta del Dragon. |
+| VEH-024 | partial | El Ford coupé 1932 está identificado, pero motor y modificaciones exactas de la unidad de rodaje requieren corroboración técnica adicional. |
+| VEH-025 | confirmed | MoPOP identifica diseño, constructor y pieza; ACMI diferencia las unidades a tamaño real y los modelos de efectos. |
+
+### Resultado de la decisión
+
+- **12 confirmed:** VEH-001, 004, 006, 008, 009, 011, 013, 015, 016, 017, 022 y 025.
+- **12 partial:** VEH-002, 003, 005, 007, 010, 012, 014, 018, 019, 020, 021 y 024.
+- **1 pending:** VEH-023.
+
+Los estados describen la suficiencia documental del registro para su alcance actual; no equivalen a que todos los detalles de cada unidad de rodaje estén resueltos. Las incertidumbres anotadas siguen abiertas y deberán acompañar a las fichas. No se inicia VEH-026–VEH-050 hasta cerrar las correcciones y validar esta actualización.
