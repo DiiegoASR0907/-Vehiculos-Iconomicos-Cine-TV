@@ -52,3 +52,34 @@ Estas notas preservan decisiones de trabajo previas; no reemplazan las fuentes p
 ## Incidencias abiertas
 
 La matriz de consolidación conversacional contiene algunas discrepancias de puntuación y datos técnicos que no deben promoverse a confirmados sin volver a la fuente primaria del bloque. La primera carga prioriza preservar los IDs y hacer explícita la incertidumbre.
+
+
+## Investigación documental — VEH-001 a VEH-025 (primera pasada)
+
+- VEH-001: DeLorean DMC-12 confirmado como base del coche-tiempo; Haynes documenta producción 1981–1982. Año exacto de las unidades de rodaje aún no asignado.
+- VEH-002: Batimóvil de Anton Furst clasificado como diseño ficticio construido físicamente. Petersen describe una base 1967 Impala, mientras el reportaje contemporáneo de Los Angeles Times menciona 1968 Impala; el año queda sin fijar.
+- VEH-003: Aston Martin DB5 de Goldfinger (1964), con prototipo documentado en fuente especializada; año exacto de fabricación del ejemplar aún requiere confirmación.
+- VEH-004: Ecto-1 es una Cadillac 1959 con carrocería Miller-Meteor; se registran varias unidades y distintas fases de color/rodaje.
+- VEH-005: Pursuit Special identificado como Ford Falcon XB GT Hardtop 1973 modificado.
+- VEH-006: Eleanor del remake de 2000 es un Mustang Fastback 1967 personalizado, no un Shelby GT500 original de fábrica; separado de la Eleanor de la película de 1974.
+- VEH-007: Charger R/T 1970 de Dominic Toretto en The Fast and the Furious (2001).
+- VEH-008: Toyota identifica el Supra hero de Brian como Supra MK IV de 1994 y recoge el testimonio de su propietario original.
+- VEH-009: Mustang GT Fastback 1968 de Bullitt; se registran dos coches de rodaje modificados.
+- VEH-010: Herbie se representa mediante varias unidades Type 1; no imponer un solo año de modelo.
+- VEH-011: Christine es Plymouth Fury 1958; Petersen documenta una de las unidades stunt y AFI confirma el modelo.
+- VEH-012: trío de Austin Mini Cooper S Mk I de The Italian Job (1969), dentro de una flota más amplia.
+- VEH-013: Tumbler es un diseño ficticio construido para Batman Begins (2005); aclarar en la siguiente pasada el recuento de coches funcionales frente a maquetas.
+- VEH-014: Explorer de Jurassic Park asociado a primera generación y año 1992 según archivo especializado; falta fuente institucional/producción.
+- VEH-015: Modena Spyder California 1985; el National Historic Vehicle Register documenta la construcción y el uso de tres coches en Ferris Bueller's Day Off (1986). No es un Ferrari auténtico.
+- VEH-016: Bluesmobile es Dodge Monaco 1974; John Landis confirma el modelo y la adquisición de varias unidades.
+- VEH-017: Ford Anglia 105E de 1962; Wizarding World documenta 16 unidades adaptadas para rodaje.
+- VEH-018: autobús de Speed es una flota de GM New Look y otras unidades; no asignar un único año/modelo a toda la identidad.
+- VEH-019: cinco VW Bus de finales de los setenta fueron adaptadas para Little Miss Sunshine; no asignar un año exacto único.
+- VEH-020: Captain America es una chopper custom creada por Ben Hardy y Cliff Vaughs. No confundir la moto original de rodaje con motos promocionales posteriores.
+- VEH-021: Chitty es ficticio pero construido en varias versiones físicas; National Motor Museum documenta seis coches para el filme.
+- VEH-022: Landmaster es una construcción especial de doce ruedas; AFI registra una unidad física aunque se representen dos.
+- VEH-023: Dragon car asociado a Frankenstein; base mecánica pendiente. Se descarta como no verificada la afirmación de que fuera un Volkswagen re-carrozado.
+- VEH-024: Deuce Coupe de John Milner es un Ford 1932 modificado como hot rod para American Graffiti (1973).
+- VEH-025: Spinner de Blade Runner (1982), diseño de Syd Mead y construcción de Gene Winfield; MoPOP y ACMI documentan el objeto y sus versiones de efectos.
+
+Este bloque queda **documentado en primera pasada, no cerrado**. Ninguna de las 25 fichas se marca como confirmada; 24 permanecen parciales y VEH-023 pendiente.
