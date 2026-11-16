@@ -98,3 +98,14 @@ Se realizó una segunda revisión de fuentes y discrepancias y se actualizó el 
 - VEH-002, VEH-014 y VEH-020 conservan incertidumbres concretas; las fuentes ahora permiten describirlas con mayor precisión, pero no cerrar todos los campos.
 
 **Decisión:** no iniciar VEH-026–VEH-050 todavía. Primero hay que resolver o documentar formalmente las incertidumbres restantes y auditar los campos individuales de las 25 fichas. La existencia de referencias en el JSON no equivale a que todas las afirmaciones estén probadas.
+
+## Matriz de comprobación campo por campo — VEH-001 a VEH-025
+
+Se creó `docs/VEHICLE_FIELD_AUDIT_001_025.md` con una fila individual para cada ID y comprobación de identidad/producción, primera aparición, modelo/fabricante, naturaleza, personaje, fuentes y límites de evidencia.
+
+- La matriz contiene los 25 IDs originales.
+- No se modificó ningún `verification_status` en el JSON maestro.
+- La matriz identifica por separado las discrepancias de VEH-002, VEH-003, VEH-012, VEH-020 y VEH-023, además de las carencias de fuente de otros registros.
+- La siguiente decisión editorial será revisar la matriz y aprobar, corregir o mantener cada evaluación de campo antes de cambiar estados.
+- VEH-026–VEH-050 no se inicia hasta resolver esta revisión.
+
