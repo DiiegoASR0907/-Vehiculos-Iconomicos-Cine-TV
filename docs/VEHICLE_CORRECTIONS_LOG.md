@@ -45,8 +45,8 @@ Estas notas preservan decisiones de trabajo previas; no reemplazan las fuentes p
 ## Puntuaciones originales
 
 - VEH-001 a VEH-025: se conserva la distribución recuperada (18×5, 5×4, 2×3) y los valores individuales disponibles en el JSON. Debe cotejarse contra el registro original antes de considerarlos definitivos.
-- VEH-026 a VEH-050: valores individuales recuperados en el trabajo previo; pendientes de cotejo documental.
-- VEH-051 a VEH-075: VEH-072 y VEH-073 no tienen puntuación original recuperada; permanecen nulos. Los demás valores disponibles se preservan como originales, no como recalibración.
+- VEH-026 a VEH-050: se conservaron los valores individuales recuperados en el trabajo previo. Al contarlos, la asignación individual da 13 puntuaciones de 5 y 12 de 4, mientras que un resumen anterior indicaba 15 y 10. Esta discrepancia queda abierta y debe cotejarse contra el registro original; no se debe tratar el total agregado como resuelto.
+- VEH-051 a VEH-075: VEH-072 y VEH-073 no tienen puntuación original recuperada; permanecen nulos. Los demás valores individuales disponibles se preservan como originales, no como recalibración. La asignación actual suma 13 puntuaciones de 5 y 10 de 4, además de los dos nulos; un resumen anterior indicaba 12 y 10, por lo que el recuento global también queda pendiente de cotejo.
 - VEH-076 a VEH-100: puntuaciones originales no recuperadas; permanecen nulas.
 
 ## Incidencias abiertas
