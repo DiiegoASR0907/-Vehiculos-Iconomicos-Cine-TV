@@ -14,7 +14,7 @@
 - VEH-009: Ford Mustang 1968.
 - VEH-015: réplica Modena Spyder California; no Ferrari 250 GT California original.
 - VEH-018: autobuses GM New Look en la producción.
-- VEH-020: Harley-Davidson FLH policial modificada.
+- VEH-020: chopper Captain America de *Easy Rider*, construcción artesanal con componentes Harley-Davidson; no confirmar FLH como modelo de fábrica.
 - VEH-048: Pontiac Firebird dorado de The Rockford Files; no Ford Torino.
 - VEH-060: Plymouth Junkerolla 1986, según la identificación de trabajo; requiere referencia de episodio/fuente en ficha.
 - VEH-065: Optimus Prime G1 basado en Freightliner FL86; no confundir con el Peterbilt de películas.
@@ -106,3 +106,10 @@ Se reforzaron las fuentes y se corrigieron las siguientes afirmaciones:
 - VEH-025: MoPOP acredita diseñador Syd Mead, fabricante Gene Winfield y pieza fechada en 1982; ACMI documenta tres versiones a tamaño real y modelos de efectos.
 
 La revisión mantiene 24 fichas parciales y una pendiente (VEH-023). No se elevan estados a confirmado sin una matriz campo-por-campo con evidencia suficiente.
+
+
+## Decisión documental de estados — VEH-001 a VEH-025 (16-11-2026)
+
+Se revisaron individualmente los campos de las 25 fichas y se aplicaron los estados documentados en `docs/VEHICLE_FIELD_AUDIT_001_025.md`: 12 `confirmed`, 12 `partial` y 1 `pending` (VEH-023). Esta clasificación no elimina las limitaciones descritas en cada ficha.
+
+Corrección editorial adicional: VEH-020 deja de llamarse “Harley-Davidson FLH de Easy Rider”. El nombre pasa a “Chopper Captain America (Easy Rider)” porque la evidencia disponible acredita una custom artesanal con componentes Harley, pero no el modelo FLH de la motocicleta completa.
