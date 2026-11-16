@@ -109,3 +109,18 @@ Se creó `docs/VEHICLE_FIELD_AUDIT_001_025.md` con una fila individual para cada
 - La siguiente decisión editorial será revisar la matriz y aprobar, corregir o mantener cada evaluación de campo antes de cambiar estados.
 - VEH-026–VEH-050 no se inicia hasta resolver esta revisión.
 
+
+
+## Decisión de estados — VEH-001 a VEH-025 (16-11-2026)
+
+Tras revisar la matriz campo por campo, se asignaron estados individualmente:
+
+- **12 confirmed:** VEH-001, VEH-004, VEH-006, VEH-008, VEH-009, VEH-011, VEH-013, VEH-015, VEH-016, VEH-017, VEH-022 y VEH-025.
+- **12 partial:** VEH-002, VEH-003, VEH-005, VEH-007, VEH-010, VEH-012, VEH-014, VEH-018, VEH-019, VEH-020, VEH-021 y VEH-024.
+- **1 pending:** VEH-023.
+
+`confirmed` se aplica a la identidad y los campos esenciales dentro del alcance explícito de la ficha. No implica que se hayan identificado todos los VIN, matrículas o detalles de cada unidad de rodaje. Los límites documentales permanecen descritos en `docs/VEHICLE_FIELD_AUDIT_001_025.md`.
+
+Se corrigió además el nombre de VEH-020 para retirar la designación FLH no demostrada: ahora figura como “Chopper Captain America (Easy Rider)”.
+
+**Bloque VEH-001–VEH-025: decisión de estados realizada.** No iniciar VEH-026–VEH-050 hasta comprobar en main la integridad del JSON y la coherencia de los documentos.
